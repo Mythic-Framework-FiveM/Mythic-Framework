@@ -1,5 +1,7 @@
 ![Logo](https://i.imgur.com/uv0El0Z.jpeg)
 
+**DO NOT USE TREYYS VERSION**, **IF U WANNA START TREYY ILL GET MORE EVIDENCE OF YOU USING RACIAL SLURS AND STUFF TOO** ALSO LEARN TO CODE!
+
 # Mythic Framework [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A curated list of credits, links, and community information related to the framework.
 
@@ -8,21 +10,13 @@
 - Custom written framework that was used for Mythic RP
 
 ## Official Discord
-- [Discord Link](https://discord.gg/N2JARAe8Rp) - Offical Discord for community-driven support forum!
+- [Discord Link](https://discord.gg/HAXNp9NW2f) - Offical Discord for community-driven support forum!
 
 ## Project Maintainers
-- Treyyyy - Maintainer & Community Owner
-- Jay - Maintainer &
-- Nex - Maintainer
-- TheCasual420Gamer - Maintainer
-- Tyh - Maintainer
 - PLACEHOLDER - Maintainer
 
 ## Credits
 - Alzar & Dr Nick - Original Maintainers and Creators
-- Greve - Creator of the txAdminRecipe for mythic framework
-
-
 
 
 ## Information
@@ -57,4 +51,17 @@ This will not work out of the box, you will need to make modifications to the ba
 In the MongoDB Compass, inside of the "auth" database under users, find yourself (or whoever you want to give admin too) and add a new dataset under the groups array called either admin, owner, or staff. If you're already in the server, soft or hard relog to retrieve the new permissions.
 
 To use the admin tool, run `/admin` or `/staff`.
+
+![image](https://github.com/user-attachments/assets/d8feb147-3148-4ecf-b2f9-e3d5813ae135)
+
+
+![image](https://github.com/user-attachments/assets/b5680d3d-8667-4c38-a0d0-64437ce18f44)
+
+
+
+
+
+
+
+
 
