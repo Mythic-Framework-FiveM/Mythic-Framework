@@ -1,5 +1,5 @@
 ![Logo](https://i.imgur.com/uv0El0Z.jpeg)
-
+**THIS WILL BE A SQL FRAMEWORK EVENTUALLY**
 **DO NOT USE TREYYS VERSION**, **IF U WANNA START TREYY ILL GET MORE EVIDENCE OF YOU USING RACIAL SLURS AND STUFF TOO** ALSO LEARN TO CODE!
 
 # Mythic Framework [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
